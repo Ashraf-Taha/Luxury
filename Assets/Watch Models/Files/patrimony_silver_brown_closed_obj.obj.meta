@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 53c32d9c9aec4436da133468e1b8e9d6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: patrimony_back_002
+    100002: patrimony_batons_002
+    100004: patrimony_buckle_002
+    100006: patrimony_case_003
+    100008: patrimony_crown_002
+    100010: patrimony_crystal_001
+    100012: patrimony_display_002
+    100014: patrimony_dots_001
+    100016: patrimony_hand_h_002
+    100018: patrimony_hand_m_002
+    100020: patrimony_logo_002
+    100022: patrimony_loop_002
+    100024: patrimony_lug_002
+    100026: patrimony_pin_002
+    100028: patrimony_sewing_001
+    100030: //RootNode
+    100032: patrimony_strap_001
+    100034: patrimony_tongue_002
+    400000: patrimony_back_002
+    400002: patrimony_batons_002
+    400004: patrimony_buckle_002
+    400006: patrimony_case_003
+    400008: patrimony_crown_002
+    400010: patrimony_crystal_001
+    400012: patrimony_display_002
+    400014: patrimony_dots_001
+    400016: patrimony_hand_h_002
+    400018: patrimony_hand_m_002
+    400020: patrimony_logo_002
+    400022: patrimony_loop_002
+    400024: patrimony_lug_002
+    400026: patrimony_pin_002
+    400028: patrimony_sewing_001
+    400030: //RootNode
+    400032: patrimony_strap_001
+    400034: patrimony_tongue_002
+    2100000: vacheron_silver_brown_brushed_metal
+    2100002: vacheron_silver_brown_metal
+    2100004: vacheron_crystal
+    2100006: vacheron_silver_brown_plain
+    2100008: vacheron_silver_brown_leather
+    2300000: patrimony_back_002
+    2300002: patrimony_batons_002
+    2300004: patrimony_buckle_002
+    2300006: patrimony_case_003
+    2300008: patrimony_crown_002
+    2300010: patrimony_crystal_001
+    2300012: patrimony_display_002
+    2300014: patrimony_dots_001
+    2300016: patrimony_hand_h_002
+    2300018: patrimony_hand_m_002
+    2300020: patrimony_logo_002
+    2300022: patrimony_loop_002
+    2300024: patrimony_lug_002
+    2300026: patrimony_pin_002
+    2300028: patrimony_sewing_001
+    2300030: patrimony_strap_001
+    2300032: patrimony_tongue_002
+    3300000: patrimony_back_002
+    3300002: patrimony_batons_002
+    3300004: patrimony_buckle_002
+    3300006: patrimony_case_003
+    3300008: patrimony_crown_002
+    3300010: patrimony_crystal_001
+    3300012: patrimony_display_002
+    3300014: patrimony_dots_001
+    3300016: patrimony_hand_h_002
+    3300018: patrimony_hand_m_002
+    3300020: patrimony_logo_002
+    3300022: patrimony_loop_002
+    3300024: patrimony_lug_002
+    3300026: patrimony_pin_002
+    3300028: patrimony_sewing_001
+    3300030: patrimony_strap_001
+    3300032: patrimony_tongue_002
+    4300000: patrimony_back_002
+    4300002: patrimony_batons_002
+    4300004: patrimony_buckle_002
+    4300006: patrimony_case_003
+    4300008: patrimony_crown_002
+    4300010: patrimony_crystal_001
+    4300012: patrimony_display_002
+    4300014: patrimony_dots_001
+    4300016: patrimony_hand_h_002
+    4300018: patrimony_hand_m_002
+    4300020: patrimony_logo_002
+    4300022: patrimony_loop_002
+    4300024: patrimony_lug_002
+    4300026: patrimony_pin_002
+    4300028: patrimony_sewing_001
+    4300030: patrimony_strap_001
+    4300032: patrimony_tongue_002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
